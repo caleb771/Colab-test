@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Colab Test</title>
+</head>
+<body>
+  <iframe src="YOUR_COLAB_EMBED_LINK" width="800" height="600"></iframe>
+</body>
+</html>
