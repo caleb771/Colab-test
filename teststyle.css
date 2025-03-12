@@ -1,0 +1,20 @@
+body {
+  font-family: sans-serif;
+  margin: 0;
+  padding: 20px;
+  background-color: #f0f0f0;
+}
+
+iframe {
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  display: block;
+  margin: 20px auto;
+  width: 90%; /* Adjust as needed */
+  max-width: 900px; /* Adjust as needed */
+  min-height: 500px;
+}
+
+title {
+  text-align: center;
+}
